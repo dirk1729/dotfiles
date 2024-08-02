@@ -1,65 +1,66 @@
-.DS_Store
-
 .CFUserTextEncoding
-	.DS_Store
-	.anaconda/
-	.anyconnect
-	.anydesk/
-	.arduinoIDE/
-	.bash_history
-	.bash_profile
-	.cache/
-	.cargo/
-	.cisco/
-	.conda/
-	.condarc
-	.config/
-	.continuum/
-	.cups/
-	.diffusionbee/
-	.docker/
-	.gem/
-	.gitconfig
-	.ipython/
-	.jupyter/
-	.lesshst
-	.local/
-	.matplotlib/
-	.npm/
-	.oh-my-zsh/
-	.ollama/
-	.p10k.zsh
-	.profile
-	.python_history
-	.rustup/
-	.ssh/
-	.tcshrc
-	.vim/
-	.viminfo
-	.vnc/
-	.vscode-oss/
-	.vscode/
-	.xonshrc
-	.zcompdump-drambp-5.9
-	.zcompdump-drambp-5.9.zwc
-	.zprofile
-	.zsh_history
-	.zsh_sessions/
-	.zshenv
-	.zshrc
-	.zshrc_p10k
-	Applications (Parallels)/
-	Desktop/
-	Documents/
-	Downloads/
-	Library/
-	Movies/
-	Music/
-	Parallels/
-	Pictures/
-	Public/
-	Updates
-	Zotero/
-	krb5-MacOS.conf
-	miniconda3/
-	powerlevel10k/
+.DS_Store
+.anaconda/
+.anyconnect
+.anydesk/
+.arduinoIDE/
+.bash_history
+.bash_profile
+.cache/
+.cargo/
+.cisco/
+.conda/
+# .condarc
+.config/
+.continuum/
+.cups/
+.diffusionbee/
+.docker/
+.gem/
+.gitconfig
+.ipython/
+.jupyter/
+.lesshst
+.local/
+.matplotlib/
+.npm/
+.oh-my-zsh/
+.ollama/
+.p10k.zsh
+.profile
+.python_history
+.rustup/
+.ssh/
+.tcshrc
+.vim/
+.viminfo
+.vnc/
+.vscode-oss/
+.vscode/
+.xonshrc
+.zcompdump-drambp-5.9
+.zcompdump-drambp-5.9.zwc
+.zprofile
+.zsh_history
+.zsh_sessions/
+.zshenv
+# .zshrc
+.zshrc_p10k
+Applications (Parallels)/
+Desktop/
+Documents/
+Downloads/
+Library/
+Movies/
+Music/
+Parallels/
+Pictures/	
+Public/
+Updates	
+Zotero/
+Pictures/
+Updates/
+Updates
+krb5-MacOS.conf
+miniconda3/
+powerlevel10k/
